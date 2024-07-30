@@ -1,3 +1,9 @@
+
+
+
+
+
+
 *{
     padding: 0px;
     margin: 0px;
@@ -16,7 +22,7 @@ ul, ol{
     margin: auto;
     width: 800px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    padding: 50px;
+    padding: 60px;
 }
 .botones > li{
     float: left  ;
@@ -32,14 +38,12 @@ position: absolute;
 min-width: 140px;
 display: none;
 }
-
-
-
 .encabezado{
     width: 100%;
     height: 150px;
     text-align: center;
-    color:  rgb(255, 255, 255);
-    font-size: 40px;
+    color:  rgb(133, 133, 133);
+    font-size: 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
    
 }

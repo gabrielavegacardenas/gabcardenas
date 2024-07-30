@@ -1,3 +1,5 @@
+
+
 *{
 
     padding: 0px;
@@ -11,12 +13,19 @@
     
     body{
     
-    background-image: url("cinnamonroll.jfif");
+        background-image: url("1233012.jpg");
+        
+        background-repeat: no-repeat;
+        
+        }
+        .h{
     
-    background-repeat: no-repeat;
-    
-    }
-    
+            background-image: url("aesthetic-cute-kawaii-cinnamoroll-cartoon-260nw-2430505261.jpg");
+            
+            background-repeat: no-repeat;
+            
+            }
+                
         
         .contenedor{
         
